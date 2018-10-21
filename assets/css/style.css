@@ -1,0 +1,44 @@
+.navegacion{
+   padding: 0px 0px 0px 215px;
+}
+.boton {
+    background-color: aqua;
+}
+.navegacion2 {
+    padding: 0px 200px 0px 400px;
+    
+}
+
+
+.info{
+    margin-top: 30px;
+}
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 0px; 
+    padding: 0;
+    margin-bottom: 15px;
+}
+.AboutMe{
+    padding-left: 15px;
+    margin-top: 5px;
+    color:  #4aaaa5;
+}
+.firstRow{
+    padding-left: 15px;
+    overflow: auto;
+
+}
+.infoTotal {
+    border: 1px solid;
+    border-color: #dddddd;
+}
+.infoTotal2{
+    background-color: #ffffff;
+}
+figure{
+    float:left;
+ }
